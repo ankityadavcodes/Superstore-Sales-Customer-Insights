@@ -6,7 +6,7 @@ Interactive Power BI dashboard analyzing superstore sales, customer behavior, an
 This project provides an interactive Power BI dashboard for analyzing sales performance, customer behavior, and operational metrics of a retail superstore. It enables quick executive decision-making through KPIs, trend analysis, and actionable insights.
 
 ## Dataset
-- **File:** `Data/raw_data.csv`
+- - **File:** `Data/Superstore Sales Dataset.csv`
 - **Description:** Sample of sales transactions including Order ID, Customer, Product, Category, Sales, and Shipping details.
 - **Scope:** 6,978 orders covering multiple product categories and regions.
 
