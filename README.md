@@ -31,3 +31,8 @@ This project provides an interactive Power BI dashboard for analyzing sales perf
 1. Download the repository.
 2. Open `Superstore Sales & Customer Insights Dashboard (Power BI).pbix` in Power BI Desktop.
 3. Explore interactive dashboards, filters, and insights.
+
+## 👤 Author
+Ankit Yadav  
+Data Analyst | SQL | Power BI | Excel | Python | Machine Learning
+
